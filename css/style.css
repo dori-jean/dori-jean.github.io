@@ -88,10 +88,10 @@ h6 {
     height: auto;
     padding-top: 8rem;
     padding-bottom: 8rem;
-    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/jumbotron.jpeg");
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/DJWEBJUMBOjpeg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
 }
 
 .masthead h1 {
@@ -122,7 +122,7 @@ h6 {
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
     transform: translateX(250px);
-    background: #20b2aa;
+    background: #222d65;
     border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -205,7 +205,7 @@ h6 {
 
 .service-icon {
     background-color: #fff;
-    color: #20b2aa;
+    color: #222d65;
     height: 7rem;
     width: 7rem;
     display: block;
@@ -215,12 +215,13 @@ h6 {
 }
 
 .callout {
-    padding: 15rem 0;
-    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/youngliving.jpeg");
+    padding: 30rem 0;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/DJWEBGetStartedjpeg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
 }
+
 
 .callout h2 {
     font-size: 3.5rem;
@@ -289,7 +290,7 @@ h6 {
         clip-path: inset(2rem);
     }
     .portfolio-item:hover .caption {
-        background-color: rgba(32, 178, 170, 0.9);
+        background-color: rgba(34, 45, 101, 0.9);
         -webkit-clip-path: inset(2rem);
         clip-path: inset(2rem);
     }
@@ -306,33 +307,40 @@ footer.footer .social-link {
     width: 4rem;
     line-height: 4.3rem;
     font-size: 1.5rem;
-    background-color: #20b2aa;
+    background-color: #222d65;
     transition: background-color 0.15s ease-in-out;
     box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
 footer.footer .social-link:hover {
-    background-color: #20b2aa;
+    background-color: #222d65;
     text-decoration: none;
 }
 
 a {
-    color: #20b2aa;
+    color: #222d65;
 }
 
 a:hover, a:focus, a:active {
-    color: #20b2aa;
+    color: #222d65;
+}
+
+.young-living-btn{
+    margin:auto;
+    display:block;
+    width: 300px;
+    height: 70px;
 }
 
 .btn-primary {
-    background-color: #20b2aa !important;
-    border-color: #20b2aa !important;
+    background-color: #222d65 !important;
+    border-color: #222d65 !important;
     color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background-color: #20b2aa !important;
-    border-color: #20b2aa !important;
+    background-color: #222d65 !important;
+    border-color: #222d65 !important;
 }
 
 .btn-secondary {
@@ -356,11 +364,11 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-    background-color: #20b2aa !important;
+    background-color: #222d65 !important;
 }
 
 .text-primary {
-    color: #20b2aa !important;
+    color: #222d65 !important;
 }
 
 .text-secondary {
