@@ -214,6 +214,16 @@ h6 {
     box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
+/*Headshot at Intro Bio*/
+.headshot {
+    padding: 30rem 0;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/headshot.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 50%;
+}
+
 .callout {
     padding: 30rem 0;
     background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/DJWEBGetStartedjpeg.jpg");
