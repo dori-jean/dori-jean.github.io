@@ -1,1 +1,1 @@
-# https://dori-jean.github.io/daniel/
+# www.dorijean.com
